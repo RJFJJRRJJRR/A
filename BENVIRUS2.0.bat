@@ -1,10 +1,6 @@
 @echo off
-echo X=MsgBox("Innocent,0+16,"I am innocent") >> Innocent2.vbs
-start Innocent2.vbs
-taskkill /F /IM wscript.exe
 echo BEN BEN BEN BEN BEN BEN BEN BEN BEN BEN
 echo GET NEW PC >> ntdl32.dll
-echo X=MsgBox("Cannot use ntdl32.dll change to 666.dll,0+16,"BEN GAMES")
 echo Set WshShell = CreateObject("WScript.Shell") > message.vbs
 echo WshShell.Run "Notepad" >> message.vbs
 echo WScript.Sleep 500 >> message.vbs
@@ -31,14 +27,21 @@ echo WshShell.SendKeys "T" >> message.vbs
 echo WScript.Sleep 100 >> message.vbs
 echo WshShell.SendKeys " " >> message.vbs
 echo WScript.Sleep 100 >> message.vbs
-echo WshShell.SendKeys "Y" >> message.vbs
+echo WshShell.SendKeys "L" >> message.vbs
 echo WScript.Sleep 100 >> message.vbs
-echo WshShell.SendKeys "U" >> message.vbs
+echo WshShell.SendKeys "E" >> message.vbs
 echo WScript.Sleep 100 >> message.vbs
-echo WshShell.SendKeys "O" >> message.vbs
+echo WshShell.SendKeys "T" >> message.vbs
 echo WScript.Sleep 100 >> message.vbs
 echo WshShell.SendKeys " " >> message.vbs
 echo WScript.Sleep 100 >> message.vbs
+echo WshShell.SendKeys "Y" >> message.vbs
+echo WScript.Sleep 100 >> message.vbs
+echo WshShell.SendKeys "O" >> message.vbs
+echo WScript.Sleep 100 >> message.vbs
+echo WshShell.SendKeys "U" >> message.vbs
+echo WScript.Sleep 100 >> message.vbs
+echo WshShell.SendKeys " " >> message.vbs
 echo WshShell.SendKeys "G" >> message.vbs
 echo WScript.Sleep 100 >> message.vbs
 echo WshShell.SendKeys "O" >> message.vbs
